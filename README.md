@@ -19,7 +19,7 @@ The goal is to extract meaningful business insights and support data-driven deci
 
 ![Sales Performance Dashboard](Dashboard_image.png)
 
-**View Interactive Dashboard:** [Open Power BI Dashboard](YOUR_DASHBOARD_LINK)
+**View Interactive Dashboard:** [Open Power BI Dashboard](https://app.powerbi.com/groups/dd57b92d-9409-4eb3-8fae-895f33460213/reports/c18d4c1e-80a2-45d9-96b8-866a746f473c/444e5917e276213b7532?experience=power-bi)
 
 ## SQL Analysis
 
