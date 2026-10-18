@@ -1,0 +1,121 @@
+﻿CustomerID,CustomerName,Gender,Age,City,Region,SignupDate
+C0001,Malak Nabil,Male,38,Cairo,Greater Cairo,2025-04-17 00:00:00
+C0002,Jana Mohamed,Male,43,Cairo,Greater Cairo,2025-09-27 00:00:00
+C0003,Malak Kamel,Female,42,Zagazig,Delta,2022-06-29 00:00:00
+C0004,Laila Adel,Male,26,Damietta,Delta,2025-07-21 00:00:00
+C0005,Amr Fathy,Female,44,Damietta,Delta,2023-09-13 00:00:00
+C0006,Ahmed Ali,Female,60,Mansoura,Delta,2022-03-31 00:00:00
+C0007,Mahmoud Younis,Female,25,Damietta,Delta,2024-11-27 00:00:00
+C0008,Farah Ali,Female,39,Zagazig,Delta,2025-06-04 00:00:00
+C0009,Malak Farouk,Male,35,Zagazig,Delta,2023-10-16 00:00:00
+C0010,Omar Said,Male,53,Mansoura,Delta,2024-08-14 00:00:00
+C0011,Karim Samir,Female,37,Ismailia,Canal,2023-04-02 00:00:00
+C0012,Farah Ali,Male,56,Ismailia,Canal,2022-09-23 00:00:00
+C0013,Youssef Kamel,Male,33,Mansoura,Delta,2022-11-14 00:00:00
+C0014,Jana Rashad,Male,25,Tanta,Delta,2025-03-11 00:00:00
+C0015,Karim Ali,Male,54,Zagazig,Delta,2025-03-11 00:00:00
+C0016,Mahmoud Saleh,Male,61,Mansoura,Delta,2023-02-08 00:00:00
+C0017,Jana Nabil,Male,57,Alexandria,North,2022-10-07 00:00:00
+C0018,Omar Farouk,Female,55,Damietta,Delta,2024-07-19 00:00:00
+C0019,Karim Younis,Female,44,Mansoura,Delta,2023-10-05 00:00:00
+C0020,Hana Hassan,Male,29,Tanta,Delta,2022-06-10 00:00:00
+C0021,Jana Nabil,Male,59,Mansoura,Delta,2024-03-02 00:00:00
+C0022,Malak Said,Female,45,Cairo,Greater Cairo,2024-02-15 00:00:00
+C0023,Hana Farouk,Male,46,Cairo,Greater Cairo,2022-02-13 00:00:00
+C0024,Khaled Rashad,Male,31,Giza,Greater Cairo,2023-07-26 00:00:00
+C0025,Nada Hassan,Male,57,Ismailia,Canal,2022-03-23 00:00:00
+C0026,Salma Mansour,Male,38,Damietta,Delta,2024-07-15 00:00:00
+C0027,Hana Adel,Female,65,Alexandria,North,2024-07-19 00:00:00
+C0028,Khaled Fathy,Female,33,Mansoura,Delta,2022-08-22 00:00:00
+C0029,Omar Ali,Male,55,Giza,Greater Cairo,2024-10-08 00:00:00
+C0030,Laila Kamel,Male,61,Zagazig,Delta,2023-12-03 00:00:00
+C0031,Nour Adel,Female,41,Ismailia,Canal,2023-09-17 00:00:00
+C0032,Farah Mohamed,Male,50,Alexandria,North,2024-06-01 00:00:00
+C0033,Farah Rashad,Male,34,Tanta,Delta,2022-06-15 00:00:00
+C0034,Sara Samir,Female,41,Giza,Greater Cairo,2024-09-06 00:00:00
+C0035,Salma Farouk,Female,30,Mansoura,Delta,2024-12-26 00:00:00
+C0036,Karim Farouk,Male,53,Giza,Greater Cairo,2023-01-17 00:00:00
+C0037,Mariam Fathy,Female,24,Cairo,Greater Cairo,2023-10-01 00:00:00
+C0038,Ahmed Kamel,Male,56,Zagazig,Delta,2024-03-21 00:00:00
+C0039,Nour Fathy,Female,18,Tanta,Delta,2024-11-27 00:00:00
+C0040,Karim Nabil,Male,32,Mansoura,Delta,2024-05-28 00:00:00
+C0041,Hana Ali,Female,48,Alexandria,North,2022-04-29 00:00:00
+C0042,Khaled Farouk,Male,26,Damietta,Delta,2023-11-23 00:00:00
+C0043,Ali Nabil,Male,50,Alexandria,North,2022-05-25 00:00:00
+C0044,Hana Farouk,Male,32,Alexandria,North,2025-07-19 00:00:00
+C0045,Hana Fathy,Male,47,Ismailia,Canal,2024-04-07 00:00:00
+C0046,Omar Ibrahim,Female,38,Giza,Greater Cairo,2023-11-07 00:00:00
+C0047,Malak Hassan,Male,31,Mansoura,Delta,2023-11-13 00:00:00
+C0048,Laila Fathy,Female,25,Zagazig,Delta,2024-03-11 00:00:00
+C0049,Laila Saleh,Male,63,Tanta,Delta,2023-04-10 00:00:00
+C0050,Mostafa Saleh,Male,31,Tanta,Delta,2022-01-31 00:00:00
+C0051,Mahmoud Hassan,Female,44,Giza,Greater Cairo,2022-07-16 00:00:00
+C0052,Hana Younis,Male,49,Giza,Greater Cairo,2024-07-30 00:00:00
+C0053,Salma Mohamed,Female,53,Cairo,Greater Cairo,2024-10-14 00:00:00
+C0054,Malak Younis,Male,47,Ismailia,Canal,2025-07-06 00:00:00
+C0055,Ahmed Mohamed,Male,24,Ismailia,Canal,2024-02-16 00:00:00
+C0056,Farah Younis,Female,40,Tanta,Delta,2025-02-05 00:00:00
+C0057,Ali Mohamed,Female,48,Ismailia,Canal,2023-02-12 00:00:00
+C0058,Mostafa Mansour,Male,65,Tanta,Delta,2025-08-03 00:00:00
+C0059,Nour Adel,Male,32,Alexandria,North,2023-09-02 00:00:00
+C0060,Sara Ibrahim,Female,22,Ismailia,Canal,2024-11-14 00:00:00
+C0061,Nada Mohamed,Female,23,Damietta,Delta,2023-12-28 00:00:00
+C0062,Ali Hassan,Female,34,Mansoura,Delta,2024-07-15 00:00:00
+C0063,Farah Mansour,Male,53,Mansoura,Delta,2024-11-11 00:00:00
+C0064,Salma Hassan,Female,63,Mansoura,Delta,2022-12-04 00:00:00
+C0065,Youssef Ali,Female,60,Cairo,Greater Cairo,2022-08-03 00:00:00
+C0066,Nour Samir,Female,52,Zagazig,Delta,2025-05-09 00:00:00
+C0067,Nour Younis,Male,65,Cairo,Greater Cairo,2024-12-24 00:00:00
+C0068,Sara Adel,Female,38,Giza,Greater Cairo,2022-07-21 00:00:00
+C0069,Omar Ibrahim,Male,31,Ismailia,Canal,2022-07-04 00:00:00
+C0070,Jana Rashad,Male,32,Cairo,Greater Cairo,2023-12-10 00:00:00
+C0071,Jana Farouk,Female,38,Ismailia,Canal,2022-10-07 00:00:00
+C0072,Mahmoud Hassan,Female,22,Damietta,Delta,2024-10-31 00:00:00
+C0073,Youssef Fathy,Male,45,Damietta,Delta,2025-07-22 00:00:00
+C0074,Farah Rashad,Male,24,Cairo,Greater Cairo,2023-11-16 00:00:00
+C0075,Jana Younis,Female,43,Tanta,Delta,2023-02-06 00:00:00
+C0076,Adam Adel,Male,46,Ismailia,Canal,2024-02-17 00:00:00
+C0077,Amr Saleh,Male,52,Alexandria,North,2022-07-16 00:00:00
+C0078,Khaled Hassan,Female,25,Zagazig,Delta,2024-04-14 00:00:00
+C0079,Adam Farouk,Female,38,Alexandria,North,2023-10-17 00:00:00
+C0080,Malak Saleh,Male,49,Zagazig,Delta,2022-06-02 00:00:00
+C0081,Mahmoud Mohamed,Female,40,Giza,Greater Cairo,2022-11-22 00:00:00
+C0082,Mostafa Farouk,Female,62,Giza,Greater Cairo,2025-04-29 00:00:00
+C0083,Amr Younis,Male,23,Damietta,Delta,2023-06-08 00:00:00
+C0084,Khaled Ali,Female,64,Ismailia,Canal,2025-04-29 00:00:00
+C0085,Laila Adel,Male,30,Giza,Greater Cairo,2022-11-28 00:00:00
+C0086,Karim Saleh,Female,64,Ismailia,Canal,2022-05-28 00:00:00
+C0087,Mariam Adel,Female,35,Ismailia,Canal,2022-07-24 00:00:00
+C0088,Mahmoud Younis,Male,62,Alexandria,North,2022-07-21 00:00:00
+C0089,Adam Said,Male,25,Ismailia,Canal,2023-02-03 00:00:00
+C0090,Nour Fathy,Male,43,Tanta,Delta,2022-01-30 00:00:00
+C0091,Mariam Ibrahim,Male,57,Zagazig,Delta,2022-03-16 00:00:00
+C0092,Hana Adel,Female,56,Mansoura,Delta,2023-07-06 00:00:00
+C0093,Ali Rashad,Female,53,Damietta,Delta,2025-05-10 00:00:00
+C0094,Nada Said,Male,41,Damietta,Delta,2022-09-12 00:00:00
+C0095,Ahmed Mohamed,Male,48,Ismailia,Canal,2024-03-10 00:00:00
+C0096,Khaled Younis,Male,18,Ismailia,Canal,2023-06-08 00:00:00
+C0097,Mostafa Mansour,Male,22,Ismailia,Canal,2025-03-12 00:00:00
+C0098,Mariam Fathy,Female,51,Cairo,Greater Cairo,2022-05-19 00:00:00
+C0099,Mahmoud Saleh,Female,29,Damietta,Delta,2025-10-03 00:00:00
+C0100,Mahmoud Said,Female,48,Giza,Greater Cairo,2024-06-18 00:00:00
+C0101,Malak Farouk,Male,57,Tanta,Delta,2024-01-21 00:00:00
+C0102,Mostafa Rashad,Female,58,Giza,Greater Cairo,2023-10-10 00:00:00
+C0103,Farah Kamel,Female,29,Damietta,Delta,2023-01-09 00:00:00
+C0104,Youssef Fathy,Male,25,Cairo,Greater Cairo,2023-08-07 00:00:00
+C0105,Ahmed Samir,Male,42,Tanta,Delta,2023-05-28 00:00:00
+C0106,Ali Fathy,Male,26,Zagazig,Delta,2024-08-18 00:00:00
+C0107,Salma Farouk,Female,50,Alexandria,North,2025-07-06 00:00:00
+C0108,Laila Farouk,Male,40,Damietta,Delta,2024-01-20 00:00:00
+C0109,Mahmoud Adel,Female,27,Ismailia,Canal,2025-01-31 00:00:00
+C0110,Mostafa Farouk,Female,21,Tanta,Delta,2023-02-08 00:00:00
+C0111,Karim Hassan,Male,46,Alexandria,North,2024-08-30 00:00:00
+C0112,Nada Mansour,Male,63,Tanta,Delta,2024-05-10 00:00:00
+C0113,Mariam Nabil,Female,45,Zagazig,Delta,2022-04-29 00:00:00
+C0114,Adam Kamel,Male,64,Tanta,Delta,2025-09-04 00:00:00
+C0115,Mahmoud Fathy,Female,39,Alexandria,North,2024-12-31 00:00:00
+C0116,Malak Mansour,Female,22,Ismailia,Canal,2022-12-21 00:00:00
+C0117,Hana Hassan,Male,42,Zagazig,Delta,2024-05-12 00:00:00
+C0118,Nour Ali,Female,18,Alexandria,North,2024-03-12 00:00:00
+C0119,Laila Kamel,Female,52,Mansoura,Delta,2024-12-05 00:00:00
+C0120,Malak Adel,Male,29,Ismailia,Canal,2024-04-19 00:00:00

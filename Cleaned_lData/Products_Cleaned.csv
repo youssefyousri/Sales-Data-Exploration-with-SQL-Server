@@ -1,0 +1,31 @@
+﻿ProductID,ProductName,Category,UnitCost,UnitPrice
+P001,Laptop,Electronics,16587.94,29931.94
+P002,Smartphone,Electronics,6410.51,14081.05
+P003,Tablet,Electronics,3901.4,9227.32
+P004,Wireless Mouse,Accessories,255.21,730.72
+P005,Keyboard,Accessories,371.6,1168.06
+P006,Headphones,Accessories,474.35,2605.01
+P007,Monitor,Electronics,2391.5,6847.9
+P008,Printer,Office Supplies,1667.88,5198.7
+P009,Office Chair,Furniture,1761.88,6418.68
+P010,Desk,Furniture,2578.36,8341.31
+P011,Notebook,Office Supplies,21.37,80.68
+P012,Pen Pack,Office Supplies,29.59,125.38
+P013,Backpack,Accessories,431.04,1764.39
+P014,External SSD,Electronics,1285.46,4139.37
+P015,USB Hub,Accessories,189.56,610.32
+P016,Desk Lamp,Furniture,230.49,1021.93
+P017,Webcam,Electronics,818.8,3042.36
+P018,Router,Electronics,687.24,2581.51
+P019,Filing Cabinet,Furniture,1429.75,5260.32
+P020,Calculator,Office Supplies,97.96,496.68
+P021,Power Bank,Accessories,319.6,1258.8
+P022,Smart Watch,Electronics,1379.86,6270.04
+P023,Microphone,Electronics,952.43,3778.34
+P024,Paper Ream,Office Supplies,105.06,212.39
+P025,Bookshelf,Furniture,1295.81,4216.62
+P026,HDMI Cable,Accessories,81.36,307.95
+P027,Gaming Mouse,Accessories,530.73,1495.15
+P028,Projector,Electronics,6603.44,20342.08
+P029,Stapler,Office Supplies,62.39,235.72
+P030,Standing Desk,Furniture,5319.57,13323.98
